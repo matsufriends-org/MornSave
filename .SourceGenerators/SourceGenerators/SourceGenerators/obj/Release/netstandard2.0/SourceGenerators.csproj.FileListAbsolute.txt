@@ -9,3 +9,14 @@
 /Users/matsufriends/git/u1w202306/SourceGenerators/SourceGenerators/SourceGenerators/obj/Release/netstandard2.0/SourceGenerators.sourcelink.json
 /Users/matsufriends/git/u1w202306/SourceGenerators/SourceGenerators/SourceGenerators/obj/Release/netstandard2.0/SourceGenerators.dll
 /Users/matsufriends/git/u1w202306/SourceGenerators/SourceGenerators/SourceGenerators/obj/Release/netstandard2.0/SourceGenerators.pdb
+/Users/matsufriends/git/u1w202306/Assets/_Morn/MornSave/.SourceGenerators/SourceGenerators/SourceGenerators/bin/Release/netstandard2.0/SourceGenerators.deps.json
+/Users/matsufriends/git/u1w202306/Assets/_Morn/MornSave/.SourceGenerators/SourceGenerators/SourceGenerators/bin/Release/netstandard2.0/SourceGenerators.dll
+/Users/matsufriends/git/u1w202306/Assets/_Morn/MornSave/.SourceGenerators/SourceGenerators/SourceGenerators/bin/Release/netstandard2.0/SourceGenerators.pdb
+/Users/matsufriends/git/u1w202306/Assets/_Morn/MornSave/.SourceGenerators/SourceGenerators/SourceGenerators/obj/Release/netstandard2.0/SourceGenerators.csproj.AssemblyReference.cache
+/Users/matsufriends/git/u1w202306/Assets/_Morn/MornSave/.SourceGenerators/SourceGenerators/SourceGenerators/obj/Release/netstandard2.0/SourceGenerators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matsufriends/git/u1w202306/Assets/_Morn/MornSave/.SourceGenerators/SourceGenerators/SourceGenerators/obj/Release/netstandard2.0/SourceGenerators.AssemblyInfoInputs.cache
+/Users/matsufriends/git/u1w202306/Assets/_Morn/MornSave/.SourceGenerators/SourceGenerators/SourceGenerators/obj/Release/netstandard2.0/SourceGenerators.AssemblyInfo.cs
+/Users/matsufriends/git/u1w202306/Assets/_Morn/MornSave/.SourceGenerators/SourceGenerators/SourceGenerators/obj/Release/netstandard2.0/SourceGenerators.csproj.CoreCompileInputs.cache
+/Users/matsufriends/git/u1w202306/Assets/_Morn/MornSave/.SourceGenerators/SourceGenerators/SourceGenerators/obj/Release/netstandard2.0/SourceGenerators.sourcelink.json
+/Users/matsufriends/git/u1w202306/Assets/_Morn/MornSave/.SourceGenerators/SourceGenerators/SourceGenerators/obj/Release/netstandard2.0/SourceGenerators.dll
+/Users/matsufriends/git/u1w202306/Assets/_Morn/MornSave/.SourceGenerators/SourceGenerators/SourceGenerators/obj/Release/netstandard2.0/SourceGenerators.pdb

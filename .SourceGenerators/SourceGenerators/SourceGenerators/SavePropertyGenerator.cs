@@ -48,7 +48,7 @@ public class SavePropertyGenerator : IIncrementalGenerator
                 var attributeContainingTypeSymbol = attributeSymbol.ContainingType;
                 var fullName = attributeContainingTypeSymbol.ToDisplayString();
 
-                if (fullName == "PastelParade.GenerateSavePropertiesAttribute")
+                if (fullName == "MornSave.GenerateSavePropertiesAttribute")
                     return classDeclarationSyntax;
             }
         }
@@ -117,7 +117,7 @@ public class SavePropertyGenerator : IIncrementalGenerator
             {
                 var attr = field.GetAttributes()
                     .FirstOrDefault(a => a.AttributeClass?.Name == "SavePropertyAttribute" || 
-                                       a.AttributeClass?.ToDisplayString() == "PastelParade.SavePropertyAttribute");
+                                       a.AttributeClass?.ToDisplayString() == "MornSave.SavePropertyAttribute");
                 return (field, attr);
             })
             .Where(tuple => tuple.attr != null);

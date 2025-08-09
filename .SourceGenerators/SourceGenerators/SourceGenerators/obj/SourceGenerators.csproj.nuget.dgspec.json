@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/matsufriends/git/u1w202306/SourceGenerators/SourceGenerators/SourceGenerators/SourceGenerators.csproj": {}
+    "/Users/matsufriends/git/u1w202306/Assets/_Morn/MornSave/.SourceGenerators/SourceGenerators/SourceGenerators/SourceGenerators.csproj": {}
   },
   "projects": {
-    "/Users/matsufriends/git/u1w202306/SourceGenerators/SourceGenerators/SourceGenerators/SourceGenerators.csproj": {
+    "/Users/matsufriends/git/u1w202306/Assets/_Morn/MornSave/.SourceGenerators/SourceGenerators/SourceGenerators/SourceGenerators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/matsufriends/git/u1w202306/SourceGenerators/SourceGenerators/SourceGenerators/SourceGenerators.csproj",
+        "projectUniqueName": "/Users/matsufriends/git/u1w202306/Assets/_Morn/MornSave/.SourceGenerators/SourceGenerators/SourceGenerators/SourceGenerators.csproj",
         "projectName": "SourceGenerators",
-        "projectPath": "/Users/matsufriends/git/u1w202306/SourceGenerators/SourceGenerators/SourceGenerators/SourceGenerators.csproj",
+        "projectPath": "/Users/matsufriends/git/u1w202306/Assets/_Morn/MornSave/.SourceGenerators/SourceGenerators/SourceGenerators/SourceGenerators.csproj",
         "packagesPath": "/Users/matsufriends/.nuget/packages/",
-        "outputPath": "/Users/matsufriends/git/u1w202306/SourceGenerators/SourceGenerators/SourceGenerators/obj/",
+        "outputPath": "/Users/matsufriends/git/u1w202306/Assets/_Morn/MornSave/.SourceGenerators/SourceGenerators/SourceGenerators/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/matsufriends/.nuget/NuGet/NuGet.Config"
