@@ -6,7 +6,7 @@ using UnityEngine;
 namespace MornSave
 {
     [CreateAssetMenu(fileName = nameof(MornSaveGlobal), menuName = "Morn/" + nameof(MornSaveGlobal))]
-    public sealed class MornSaveGlobal : MornGlobalBase<MornSaveGlobal>
+    internal sealed class MornSaveGlobal : MornGlobalBase<MornSaveGlobal>
     {
         [Serializable]
         private struct DefaultValueInfo<T>
@@ -20,6 +20,11 @@ namespace MornSave
         [SerializeField] private List<DefaultValueInfo<bool>> _defaultBools;
         [SerializeField] private List<DefaultValueInfo<float>> _defaultFloats;
         [SerializeField] private List<DefaultValueInfo<string>> _defaultStrings;
+        [Header("Save設定")]
+        public string CorePlayerPrefsKey = "SaveData"; 
+        public string CoreFileName = "SaveData"; 
+        public string CoreExtensionName = ".sav"; 
+        public string SaveDir = "Shared"; 
         public string[] SaveFlagNames => _saveFlags;
         protected override string ModuleName => nameof(MornSave);
 
