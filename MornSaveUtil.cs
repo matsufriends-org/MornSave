@@ -1,8 +1,10 @@
 using System;
 using System.IO;
-using MornSteam;
 using MornUtil;
 using UnityEngine;
+#if USE_STEAM
+using MornSteam;
+#endif
 
 namespace MornSave
 {
