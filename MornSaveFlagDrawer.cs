@@ -1,6 +1,7 @@
 #if UNITY_EDITOR
 using MornEnum;
 using UnityEditor;
+using UnityEngine;
 
 namespace MornSave
 {
@@ -8,6 +9,7 @@ namespace MornSave
     public class MornSaveFlagDrawer : MornEnumDrawerBase
     {
         protected override string[] Values => MornSaveGlobal.I.SaveFlagNames;
+        protected override Object PingTarget => MornSaveGlobal.I;
     }
 }
 #endif
